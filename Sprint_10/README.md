@@ -1,4 +1,5 @@
 # Tasca M10 T01
+Exercicis de Web Scraping.
 
 ## Exercici 1
 Realitza web scraping de dues de les tres pàgines web proposades utilitzant BeautifulSoup primer i Selenium després. 
